@@ -26,4 +26,14 @@
          Do that with one line of code.
       5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
       
- 3.Create a list of all odd numbers between 1 and a max number. Max number is something you need to take from a user using input() function
+ 3.Create a list of all odd numbers between 1 and a max number. Max number is something you need to take from a user using input() function.
+ 
+ 4.Create a list of all even numbers between 1 and a max number. Max number is something you need to take from a user using input() function.
+
+
+
+
+
+
+
+
