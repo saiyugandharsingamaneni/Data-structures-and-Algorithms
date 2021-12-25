@@ -4,3 +4,4 @@
 * Hash table
 * stack
 * queue
+* Tree
