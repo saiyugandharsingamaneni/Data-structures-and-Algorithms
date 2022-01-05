@@ -5,3 +5,4 @@
 * stack
 * queue
 * Tree
+* Binary_Tree
