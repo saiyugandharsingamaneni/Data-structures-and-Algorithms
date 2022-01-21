@@ -6,3 +6,6 @@
 * queue
 * Tree
 * Binary_Tree
+* Graph
+* Binary_search
+* Bubble_sort
