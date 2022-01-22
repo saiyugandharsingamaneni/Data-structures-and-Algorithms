@@ -9,3 +9,4 @@
 * Graph
 * Binary_search
 * Bubble_sort
+* Quick_sort
