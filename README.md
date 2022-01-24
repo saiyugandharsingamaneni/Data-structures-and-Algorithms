@@ -10,3 +10,6 @@
 * Binary_search
 * Bubble_sort
 * Quick_sort
+* Insertion_sort
+* merge_sort
+* 
