@@ -12,4 +12,4 @@
 * Quick_sort
 * Insertion_sort
 * merge_sort
-* 
+* shell_sort
