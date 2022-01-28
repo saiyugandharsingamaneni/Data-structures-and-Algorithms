@@ -13,3 +13,4 @@
 * Insertion_sort
 * merge_sort
 * shell_sort
+* selection_sort
